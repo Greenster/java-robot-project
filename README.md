@@ -1,4 +1,4 @@
-#Java Automation Project
+#Java Robot Automation Project
 ##Base Point for Java Automation Projects
 
 *Project for creating automation tests using Selenium WebDriver and TestNG.*
@@ -12,5 +12,6 @@
 * Apache POI
 * JDBC
 * MySQL
+* Robot Framework
 
 [Lorne Green](https://github.com/Greenster)
